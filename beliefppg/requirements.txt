@@ -1,0 +1,5 @@
+# separate environment (Python 3.11), used only by beliefppg/run_beliefppg.py
+beliefppg==0.3.1
+numpy
+pandas
+scipy
