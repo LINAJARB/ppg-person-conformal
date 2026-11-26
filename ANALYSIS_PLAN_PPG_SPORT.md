@@ -1,6 +1,6 @@
 # Analysis plan: second external evaluation on PPG-Sport
 
-Written and frozen on 24 November 2026, before any heart rate, error or coverage was computed on PPG-Sport.
+Written and frozen, before any heart rate, error or coverage was computed on PPG-Sport.
 Before writing it, the repository structure, the README, the participant table and the signals of one subject (S01, left wrist, stationary and running) were inspected to check the file format, the units and the signal quality.
 Any deviation from this plan will be reported in the paper as a deviation, with its reason.
 
