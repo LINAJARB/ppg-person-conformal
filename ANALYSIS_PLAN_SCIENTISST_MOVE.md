@@ -1,6 +1,6 @@
 # Analysis plan: second external evaluation on ScientISST MOVE
 
-Written and frozen on 24 November 2026, before any ScientISST MOVE file was downloaded or inspected.
+Written and frozen, before any ScientISST MOVE file was downloaded or inspected.
 Any deviation from this plan will be reported in the paper as a deviation, with its reason.
 
 ## Purpose
