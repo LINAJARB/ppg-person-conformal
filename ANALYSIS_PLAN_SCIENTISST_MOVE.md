@@ -45,6 +45,6 @@ All subjects with at least one valid window are included. Subjects or windows ex
 
 No change of MAST settings, descriptors, scale model, thresholds, motion classes or criteria after seeing the ScientISST MOVE results. No subject is excluded on the basis of its coverage or error.
 
-## Data check, 24 November 2026 (before any heart rate or coverage was computed)
+## Data check (before any heart rate or coverage was computed)
 
 Reading the raw 16-bit samples of the published EDF files shows that the wrist PPG (`ppg:wrist`) is clipped at the digital limits declared in the header. In all 15 subjects with both files (93JD has no `empatica.edf`, and LAS2 could not be transferred), 95% to 99% of its samples sit at one of the two extreme values, so the stored PPG is close to a square wave. The chest ECG (`ecg:gel`) is not clipped. Its flat segments are zero-filled interruptions, and its QRS complexes are intact. With the wrist PPG in this form, MAST and its descriptors cannot be applied as planned. The evaluation is therefore suspended. No estimate, error or coverage was computed on this dataset.
