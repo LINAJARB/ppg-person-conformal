@@ -46,6 +46,6 @@ All subjects with at least one valid window are included. Windows excluded by th
 
 No change of MAST settings, descriptors, scale model, thresholds, motion classes or criteria after seeing the PPG-Sport results. No subject is excluded on the basis of its coverage or error. No rescaling of the accelerometer to match the E4.
 
-## Outcome, 24 November 2026
+## Outcome
 
 The plan was followed without deviation (step14_ppgsport_external.py). MAST did not transfer to this wristband (MAE 25.5 bpm left, 37.7 bpm right), and at most 2 of 30 participants reached the target with any calibration (Supplementary Section S10). After these results, PPG-Sport was used as an additional source of calibration persons in an exploratory cross-sensor experiment, tested on GalaxyPPG (step15_calibration_motion_rich.py, Section IV-E). This second use was not part of the plan and is reported as exploratory.
